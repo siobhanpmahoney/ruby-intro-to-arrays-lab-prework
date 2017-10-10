@@ -26,4 +26,6 @@ def last_element_with_array_methods(sample_array)
   sample_array.last
 end
 
-
+def length_of_array(sample_array)
+  sample_array.length
+end
