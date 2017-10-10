@@ -5,4 +5,3 @@ end
 def array_with_two_elements
   ["a", "b"]
 end
-
