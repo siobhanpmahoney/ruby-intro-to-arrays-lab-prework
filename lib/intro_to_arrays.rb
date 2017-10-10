@@ -17,3 +17,13 @@ end
 def last_element(sample_array)
   sample_array[-1]
 end
+
+def first_element_with_array_methods(sample_array)
+  sample_array.first
+end
+
+def last_element_with_array_methods(sample_array)
+  sample_array.last
+end
+
+
