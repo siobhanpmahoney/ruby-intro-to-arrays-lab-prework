@@ -17,4 +17,3 @@ end
 def last_element(sample_array)
   sample_array[-1]
 end
-
