@@ -9,3 +9,12 @@ end
 def first_element(sample_array)
   sample_array[0]
 end
+
+def third_element(sample_array)
+  sample_array[2]
+end
+
+def last_element(sample_array)
+  sample_array[-1]
+end
+
